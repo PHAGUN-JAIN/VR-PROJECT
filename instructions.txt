@@ -1,0 +1,9 @@
+to open the scene to be evaluated follow these steps:
+
+1.go to asset folder
+2.go to scene folder
+3.open sample folder
+
+this is a scene of a room containing a glass table, tv, and etc.
+
+you should view the scene in cardboard
